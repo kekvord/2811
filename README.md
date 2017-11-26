@@ -1,5 +1,1 @@
-# 2811
-e
-<script>alert("ayy")</script>
-
-<strong>memes</strong>
+What is this? What is life? Do you hurt? Is that a knife? This rhyme goes nowhere, as does your life, so close this repo, and end your life.
